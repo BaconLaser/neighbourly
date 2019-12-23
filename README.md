@@ -1,16 +1,18 @@
 # neighbourly
-an open source, peer to peer based approach to security for individuals, families, farms, businesses and communities.
+@henwid
+** Synopsis**
+>An open source, peer to peer based approach to security for individuals, families, farms, businesses and communities.
 
-vision 
-a collection of hardware designs with associated software, legal agreements, understandings, governance and cooperation models that enable deployment of a security solution that allow a community to provide security monitoring at near zero cost.
+** vision **
+> A collection of hardware designs with associated software, legal agreements, understandings, governance and cooperation models that enable deployment of a security solution that allow a community to provide security monitoring at near zero cost.
 
-Design principles
-Drive to zero: (these are the goals - as asymptotes they will not be acheivable, only approachable.)
-  zero crime: be effective in not only detecting and alerting on crimes, but actively assist in crime prevention and stolen property recovery.  
-  zero pollution: drive designs towards zero energy use: ie energy efficiency and self contianed power (eg solar cell and recharable batteries) 
-  zero marginal cost: adding more users to the network will further reduce the effort and expense of all participants.
-  zero centralization: no chokepoints in the solution where someone could extract rent from monopolistic control.
-  zero setup cost: the solution involves open commodity componenets, such that a clever person with a screwdrive and soldering iron could replicate the solution from a scrap yard. 
+** Design principles **
+** Drive to zero: (these are the goals - as asymptotes they will not be acheivable, only approachable.) **
+>  zero crime: be effective in not only detecting and alerting on crimes, but actively assist in crime prevention and stolen property recovery.  
+>  zero pollution: drive designs towards zero energy use: ie energy efficiency and self contianed power (eg solar cell and recharable batteries) 
+>  zero marginal cost: adding more users to the network will further reduce the effort and expense of all participants.
+>  zero centralization: no chokepoints in the solution where someone could extract rent from monopolistic control.
+>  zero setup cost: the solution involves open commodity componenets, such that a clever person with a screwdrive and soldering iron could replicate the solution from a scrap yard. 
   
 free hardware: all hardware used in the solution should be easily and cheaply available. ie the hardware used is free from restrictive proprietary licencing that drives up costs. the hardware is easily and reliably available from multiple suppliers such that it is a common commodity. 
 free software: all software is free and open source
